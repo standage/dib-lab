@@ -19,14 +19,14 @@
   site: http://luizirber.org
   about:
 
-- name: Camille Scott            
+- name: Camille Scott
   position: Graduate Student
   site: http://camillescott.github.io/
   about: Transcriptome assembly, viz stuff, Function function functions. Creates
       software with silly names, [dammit](http://camillescott.org/dammit).
 
-- name: Tamer Mansour            
-  position: Postdoc Researcher             
+- name: Tamer Mansour
+  position: Postdoc Researcher
   site: https://github.com/drtamermansour
   about:
 
@@ -35,7 +35,7 @@
   site: http://halexand.github.io/
   about:
 
-- name: Phillip Brooks 
+- name: Phillip Brooks
   position: Postdoc Researcher
   site: https://brooksph.github.io
   about:
@@ -43,7 +43,7 @@
 - name: Daniel Standage
   position: Postdoc Researcher
   site: https://standage.github.io/
-  about:
+  about: Variant discovery, genome composition, research software.
 
 - name: Chris Hamm
   position: Postdoc Researcher
