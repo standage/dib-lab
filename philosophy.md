@@ -1,8 +1,11 @@
-Lab philosophy
-==============
+---
+layout: page
+title: Philosophy
+---
 
-The lab motto is "Better science through superior software" - we
-believe that, as biology becomes increasingly reliant on computation
+#### *"Better science through superior software"*
+
+We believe that, as biology becomes increasingly reliant on computation
 and data analysis, better software is needed to progress biological
 investigation.  This includes better software development practices
 and workflows, placing an emphasis on core scientific values of open
@@ -14,8 +17,7 @@ through enhanced use, extension, and development of computational
 tools and approaches.  Our primary focus for now is on "-omics" data -
 primarily genomic, transcriptomic, and metagenomic sequencing data.
 
-Open science
-------------
+### Open science
 
 To the best of our ability, we practice open science; **the default is
 set to "open"**.
@@ -31,25 +33,21 @@ set to "open"**.
 We also encourage blogging and open discussion of research on social
 media.
 
-Lab details
------------
+### Lab details
 
-Within the lab, we try to practice `lazy consensus
-<http://nowviskie.org/2012/lazy-consensus/>`__.  For most formal
+Within the lab, we try to practice [lazy consensus](http://nowviskie.org/2012/lazy-consensus/).
+For most formal
 requests (travel / spending), please give Titus 3 working days to
 consider them before moving ahead, unless it's urgent (in which case
 you should bother Titus with an "urgent!" request, receive positive
 permission, and then move ahead).
 
-We have a code of conduct; please see :doc:`coc`.
+We have a code of conduct; please read it [here]({{site.github.url}}/coc).
 
 All software within the lab should be written in C++ and/or Python, in
 order to maximize reuse and remixability within the lab.
 
-Miscellany
-----------
-
-Other miscellaneous thoughts --
+### Miscellany
 
 * postdocs are generally welcome to take projects with them and
   collaborate on lab projects after they leave the lab, although Titus

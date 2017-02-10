@@ -1,21 +1,31 @@
-Contacting or joining
-=====================
+---
+layout: page
+title: Contact
+---
 
-Contacting us
--------------
+### Contacting us
 
-Please contact Dr. (C.) Titus Brown directly at ctbrown@ucdavis.edu.
+Please contact Dr. (C.) Titus Brown directly at `ctbrown@ucdavis.edu`.
 
 If you're going to ask him for a recommendation letter, please read
-`this blog post
-<https://phylogenomics.wordpress.com/2013/02/21/advice-on-asking-for-letters-of-recommendation/>`__
+[this blog post](https://phylogenomics.wordpress.com/2013/02/21/advice-on-asking-for-letters-of-recommendation/)
 by Jonathan Eisen first. Titus would like to be asked at least two weeks
 before the deadline!
 
----
+### Location
 
-Joining the lab
----------------
+The lab mailing address is:
+```
+   c/o C. Titus Brown
+   Population Health and Reproduction
+   University of California, Davis
+   Davis, CA 95616
+```
+
+and we are located on the second floor of the [Center for Companion Animal Health](http://www.vetmed.ucdavis.edu/ccah/index.cfm).
+
+
+### Joining the lab
 
 Our research largely centers around making sense of biological data,
 which involves working with many different "wet lab" and field
@@ -27,9 +37,8 @@ and more.
 
 If you are interested in graduate school, please apply to UC Davis
 through an appropriate program *before* contacting Titus -- the lab
-takes students from `the CS grad group
-<http://www.cs.ucdavis.edu/graduate/>`__, as well as others.  (The
-home grad group should rarely be an obstacle to joining the lab.)
+takes students from [the CS grad group](http://www.cs.ucdavis.edu/graduate/), as well as others 
+(the home grad group should rarely be an obstacle to joining the lab).
 
 If you are already a UC Davis student and would like to visit the lab,
 please contact us directly.
@@ -43,19 +52,15 @@ including the phrase "skylar dragon" in your e-mail. I will use this
 to filter out people who don't know how to use google or have too
 short an attention span to read my lab Web site thoroughly.
 
-Collaborating with the lab
---------------------------
+### Collaborating with the lab
 
 We prefer to teach and train others in doing their own data analysis,
-rather than collaborating on it -- see `our training efforts
-<http://dib-training.readthedocs.org/en/pub/>`__.  However, in cases
+rather than collaborating on it -- see 
+[our training efforts](http://dib-training.readthedocs.org/en/pub/).  However, in cases
 where the data analysis may require the development of novel methods,
 please get in touch!
 
-Asking Dr. Brown to be on your PhD committee
---------------------------------------------
+### Asking Dr. Brown to be on your PhD committee
 
-Please read `this blog post
-<http://ivory.idyll.org/blog/will-you-join-my-committee.html>`__ -
+Please read [this blog post](http://ivory.idyll.org/blog/will-you-join-my-committee.html) -
 then contact Titus if those terms are reasonable.
-
